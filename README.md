@@ -1,5 +1,4 @@
 # fastapi-day2-assignment
-# FastAPI Day 2 Assignment
 
 This repository contains the solutions for the **FastAPI Day 2 Practice Tasks** from the internship training program.
 
